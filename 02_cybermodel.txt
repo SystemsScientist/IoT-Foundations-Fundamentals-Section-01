@@ -1,0 +1,25 @@
+
+Lecture 05 - Cybermodel, 01/19/2023
+-------------------------------------------------------------------------------------
+
+Trio of Value
+
+	- Cyber model
+	
+	- Application
+	
+	- Analytics
+
+Cybermodel
+
+	- Represented with statistics
+	
+		+ Real world does not exist parametrically
+
+	- Mathematical cybermodels can be rearranged to solve various probelems
+	
+	- Creating a cybermodel is often overlooked when creating an IoT product
+
+
+
+
