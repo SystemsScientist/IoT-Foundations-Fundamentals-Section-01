@@ -1,0 +1,75 @@
+
+Chapter Quiz, 01/19/2023
+-------------------------------------------------------------------------------------
+
+Question 1 of 5
+
+Which choice is most valuable?
+
+	A. an IoT product
+	
+	B. a smart product
+	
+	C. a connected product
+
+Answer: A 
+
+
+Question 2 of 5
+
+What is the main purpose of a software-defined product?
+
+	A. to interface with other components
+	
+	B. to virtualize the physical into the digital
+	
+	C. to perform analytics
+	
+	D. to provide connectivity
+
+Answer: B
+
+
+Question 3 of 5
+
+The cybermodel is represented mathematically using statistics?
+
+	A. True
+	
+	B. False
+
+Answer: A
+
+
+Question 4 of 5
+
+Where is the application executed in the IoT product?
+
+	A. in the cloud
+	
+	B. on the mobile device
+	
+	C. whithin the embedded system
+	
+	D. all of these answers
+
+Answer: D
+
+
+Question 5 of 5
+
+Which step is not part of the value modeling process?
+
+	A. qualifying value
+	
+	B. defining how it works
+	
+	C. defining requirements
+	
+	D. quantifying value
+
+Answer: B
+
+
+
+
