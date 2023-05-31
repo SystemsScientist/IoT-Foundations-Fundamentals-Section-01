@@ -1,0 +1,45 @@
+
+Lecture 06 - Application, 01/19/2023
+-------------------------------------------------------------------------------------
+
+Trio of Value
+
+	- Cyber Model
+	
+	- Application
+	
+	- Analytics
+
+Application Services I
+
+	- Functionality
+	
+	- Human interface
+	
+	- Data interface
+	
+	* Defines the way a product works, and how it functions
+
+Application Services II
+
+	- Provides communication
+	
+	- Orchestrates data
+	
+		+ Device sensors
+		
+		+ External data sources
+		
+		+ Cyber model
+
+Where is the application?
+
+	- Embedded device
+	
+	- Product cloud
+	
+	- Remote server
+
+
+
+
