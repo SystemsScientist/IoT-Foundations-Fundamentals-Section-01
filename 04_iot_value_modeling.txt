@@ -1,0 +1,50 @@
+
+Lecture 07 - IoT Value Modeling, 01/19/2023
+-------------------------------------------------------------------------------------
+
+Value Modeling
+
+	- 3-step process for creating value in IoT products
+
+Value Proposition
+
+	- Dry clothes as quickly, or for as little money as possible,
+	  while maintaining clothing integrity
+
+Quantify Value Proposition
+
+	- Ventilation
+	
+	- Heat
+	
+	- time/energy = f(ventilation, heat, energy price)
+
+Expanded Cybermodel
+
+	- time/energy = f(fan speed, angular velocity, load weight
+					  heater temp, drum temp, energy price)	
+					  
+	- variables expose sensors needed in a dryer
+	
+	- minimize time = f(max fan speed, angular velocity, load weight,
+						max heater temp, max drum temp, energy price)
+
+Analytics
+
+	- Looking at the Past
+	
+		+ Report on something that happened
+		
+	- Looking at the Present
+	
+		+ Monitor something that's happening
+	
+	- Looking at the Future
+	
+		+ Determining an outcome from current values
+
+Value modeling is key and a differentiator between the smart, connected,
+and IoT components.
+
+
+
