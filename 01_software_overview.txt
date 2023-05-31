@@ -1,0 +1,25 @@
+
+Lecture 04 - Software Overview, 01/19/2023
+---------------------------------------------------------------------------------
+
+SDP (Software-Defined Product)
+
+	- Virtual representation of the physical product
+
+IoT Product
+
+	- Discrete product
+	
+	- System
+	
+	- Environment
+
+SDP consists of two components
+
+	- Cyber Model
+	
+	- Application
+
+
+
+
